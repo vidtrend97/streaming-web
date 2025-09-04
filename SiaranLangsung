@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Live Streaming</title>
+</head>
+<body>
+  <h2>Saluran Langsung</h2>
+  <video id="videoPlayer" width="640" height="360" controls autoplay>
+    <source src="https://s.id/L4Gan" type="application/x-mpegURL">
+    Browser anda tidak sokong video streaming.
+  </video>
+</body>
+</html>
